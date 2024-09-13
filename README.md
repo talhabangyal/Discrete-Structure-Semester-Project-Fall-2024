@@ -1,1 +1,1 @@
-# Discrete-Structure-Semester-Project-Fall-2024
+# Discrete-Structure-Semester-Project-Spring-2024
